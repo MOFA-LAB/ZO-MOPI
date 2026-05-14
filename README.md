@@ -1,5 +1,5 @@
 # LLM fine-tuning experiments
-Our code is primarily based on [ZO-Muon](https://github.com/OPTML-Group/ZO-Muon), [LOZO](https://github.com/optsuite/LOZO.git) and [MeZO](https://github.com/princeton-nlp/MeZO.git).
+Our code is primarily based on [ZO-Muon](https://github.com/OPTML-Group/ZO-Muon), [LOZO](https://github.com/optsuite/LOZO.git), [HiZOO](https://github.com/Yanjun-Zhao/HiZOO) and [MeZO](https://github.com/princeton-nlp/MeZO.git).
 
 ## Installation
 ```
